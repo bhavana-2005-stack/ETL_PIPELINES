@@ -1,0 +1,12 @@
+,churn_percentage,avg_monthly_by_contract,customer_segments,internet_service_distribution,churn_vs_tenure_group
+Champion,,,209.0,,
+DSL,,,,329.0,
+Fiber optic,,,,468.0,
+Loyal,,,202.0,,
+Month-to-month,,67.3,,,
+New,,,321.0,,
+No,74.4,,,203.0,"{'Champion': 196, 'Loyal': 169, 'New': 167, 'Regular': 212}"
+One year,,68.18,,,
+Regular,,,268.0,,
+Two year,,63.27,,,
+Yes,25.6,,,,"{'Champion': 13, 'Loyal': 33, 'New': 154, 'Regular': 56}"
